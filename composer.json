@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-di/php-di": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
